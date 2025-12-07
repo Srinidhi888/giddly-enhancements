@@ -60,8 +60,8 @@ You can run them separately using the instructions below.
 python prototype/safety_check.py
 
 This will display:
-Safety score
-Safety label
+Safety score,
+Safety label,
 Detection of suspicious patterns
 
 ---
@@ -72,18 +72,12 @@ Open the Jupyter Notebook or Google colab and use the sample csv file and run th
 
 jupyter notebook prototype/forecasting_model.ipynb
 
-
 This notebook demonstrates:
-Synthetic event data
-Feature encoding
-A simple regression model
+Synthetic event data,
+Feature encoding,
+A simple regression model,
 Predicted attendance for a new event
----
 
-## 🧠 Notes
-These prototypes are simplified demos, not production-ready systems.
-The goal is to illustrate how AI/ML can enhance the Giddly experience.
-The code uses synthetic data for demonstration.
 
 ---
 
