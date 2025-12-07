@@ -1,0 +1,41 @@
+# Giddly AI Enhancements – Internship Prototype
+
+This repository contains prototype implementations and demos for the AI features
+proposed in my Giddly Product Improvement Design Document.
+
+## 📌 Features Included
+
+### 1. Event Attendance Forecasting (Prototype)
+A simple regression-based model that predicts expected event turnout using:
+- Event category
+- Time of day
+- Day of week
+- Host reputation
+- Historical attendance trends (synthetic dataset)
+
+Implemented in `prototype/forecasting_model.ipynb`.
+
+### 2. AI Event Safety Check (Prototype)
+A lightweight rule-based + ML-supported safety scoring function that detects
+potentially unsafe or misleading events based on:
+- Suspicious keywords
+- Vague descriptions
+- Organizer behavior
+- Formatting patterns
+
+Implemented in `prototype/safety_check.py`.
+
+
+## 🔗 Design Document
+
+The full write-up, feature specifications, bug reports, and technical design
+can be found here:
+
+👉 **Google Doc:** [<insert your link  >](https://docs.google.com/document/d/1b3aKn3vIO3B5zmQhsO_w51buike4EdG0TLrYju77tfg/edit?usp=sharing)
+
+---
+
+## 🚀 How to Run the Prototypes
+
+### 1. Clone the Repository
+
