@@ -31,8 +31,7 @@ Implemented in `prototype/safety_check.py`.
 The full write-up, feature specifications, bug reports, and technical design
 can be found here:
 
-👉 **Google Doc:** [<insert your link  >](https://docs.google.com/document/d/1b3aKn3vIO3B5zmQhsO_w51buike4EdG0TLrYju77tfg/edit?usp=sharing)
-
+👉 **Google Doc:** https://docs.google.com/document/d/1b3aKn3vIO3B5zmQhsO_w51buike4EdG0TLrYju77tfg/edit?usp=sharing
 ---
 
 ## 🚀 How to Run the Prototypes
