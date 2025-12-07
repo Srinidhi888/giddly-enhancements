@@ -37,4 +37,34 @@ can be found here:
 ## 🚀 How to Run the Prototypes
 
 ### 1. Clone the Repository
+git clone https://github.com/Srinidhi888/giddly-enhancements.git
 
+cd giddly-enhancements
+
+
+### 2. Install Dependencies
+
+
+pip install -r requirements.txt
+
+
+### 3. Run Safety Check
+
+python prototype/safety_check.py
+
+### 4. Open the Forecasting
+Use Jupyter Notebook or VSCode:
+jupyter notebook prototype/forecasting_model.ipynb
+
+---
+
+## 🧠 Notes
+- This repo contains **prototype-level demos** intended to illustrate how AI/ML
+  models can enhance the Giddly platform.
+- These prototypes are simplified versions of production-ready systems.
+
+---
+
+## 👤 Author
+**Srinidhi**  
+Software Developer  
