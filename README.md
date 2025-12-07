@@ -56,7 +56,7 @@ This repository contains **two independent prototypes**:
 You can run them separately using the instructions below.
 
 ### ▶️ Prototype 1: Run the AI Safety Check
-```bash
+
 python prototype/safety_check.py
 
 This will display:
@@ -70,9 +70,7 @@ Detection of suspicious patterns
 
 Open the Jupyter Notebook or Google colab and use the sample csv file and run the code:
 
-```bash
 jupyter notebook prototype/forecasting_model.ipynb
-
 
 
 This notebook demonstrates:
