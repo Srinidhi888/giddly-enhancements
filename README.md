@@ -48,23 +48,44 @@ cd giddly-enhancements
 pip install -r requirements.txt
 
 
-### 3. Run Safety Check
+This repository contains **two independent prototypes**:
 
+- **Prototype 1:** AI Safety Check (Python script)
+- **Prototype 2:** Event Attendance Forecasting (Jupyter Notebook)
+
+You can run them separately using the instructions below.
+
+### ▶️ Prototype 1: Run the AI Safety Check
+```bash
 python prototype/safety_check.py
 
-### 4. Open the Forecasting
-Use Jupyter Notebook or VSCode:
-jupyter notebook prototype/forecasting_model.ipynb
+This will display:
+Safety score
+Safety label
+Detection of suspicious patterns
 
 ---
 
+### ▶️ Prototype 2: Run the Event Forecasting Model
+Open the Jupyter Notebook:
+
+```bash
+jupyter notebook prototype/forecasting_model.ipynb
+
+This notebook demonstrates:
+Synthetic event data
+Feature encoding
+A simple regression model
+Predicted attendance for a new event
+---
+
 ## 🧠 Notes
-- This repo contains **prototype-level demos** intended to illustrate how AI/ML
-  models can enhance the Giddly platform.
-- These prototypes are simplified versions of production-ready systems.
+These prototypes are simplified demos, not production-ready systems.
+The goal is to illustrate how AI/ML can enhance the Giddly experience.
+The code uses synthetic data for demonstration.
 
 ---
 
 ## 👤 Author
 **Srinidhi**  
-Software Developer  
+AI/ML & Software Developer 
