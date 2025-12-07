@@ -1,0 +1,7 @@
+title,description,category,time_of_day,day_of_week,host_score,attendance
+Sunset Yoga,"Relaxing outdoor yoga session",fitness,18,6,0.8,40
+Tech Meetup,"A session on AI tools",tech,19,4,0.7,55
+Morning Run,"5km light jog",fitness,7,0,0.6,20
+Indie Music Night,"Local bands performing live",music,20,5,0.9,65
+Photography Walk,"Nature photography tips & walk",art,9,6,0.5,25
+Book Club,"Weekly fiction discussion circle",literature,17,2,0.4,12
