@@ -67,10 +67,13 @@ Detection of suspicious patterns
 ---
 
 ### ▶️ Prototype 2: Run the Event Forecasting Model
-Open the Jupyter Notebook:
+
+Open the Jupyter Notebook or Google colab and use the sample csv file and run the code:
 
 ```bash
 jupyter notebook prototype/forecasting_model.ipynb
+
+
 
 This notebook demonstrates:
 Synthetic event data
